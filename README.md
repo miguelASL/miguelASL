@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Miguel Sarmiento ! <br>Welcome to my GitHub
+Hello, I'm Miguel Sarmiento ! <br>Welcome to my GitHub ! 
 
 
 ## 🌐 Socials:
