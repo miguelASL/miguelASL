@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hello, I'm Miguel Sarmiento ! <br>Welcome to my GitHub ! 
+# 💫 Hello, I'm Miguel Sarmiento !![image](https://github.com/miguelASL/miguelASL/assets/112961729/04890a3f-294f-4c1f-8071-ec215ed72323)
+
+ <br>Welcome to my GitHub ! 
 
 
 ## 🌐 Socials:
