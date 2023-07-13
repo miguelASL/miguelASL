@@ -1,6 +1,6 @@
 # 💫 Hello, I'm Miguel Sarmiento !
 
- <br>Welcome to my GitHub ! 
+ #h1 Welcome to my GitHub ! 
 
 
 ## 🌐 Socials:
