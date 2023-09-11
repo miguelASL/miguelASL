@@ -1,6 +1,8 @@
 # 💫 ¡¡¡ Hello, I'm Miguel Sarmiento !!!
 
- ¡¡¡ Welcome to my GitHub !!!
+ ** ¡¡¡ Welcome to my GitHub !!! **
+I'm a passionate developer experienced in multiple programming languages and technologies. I'm committed to creating innovative solutions and collaborating on open-source projects. Always eager to learn and share knowledge.
+
 
 
 ## 🌐 Socials:
