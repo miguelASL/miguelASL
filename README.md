@@ -19,4 +19,4 @@ I'm a passionate developer experienced in multiple programming languages and tec
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-// [![](https://visitcount.itsvg.in/api?id=miguelASL&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=miguelASL&icon=0&color=0)](https://visitcount.itsvg.in)
