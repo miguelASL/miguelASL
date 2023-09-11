@@ -18,5 +18,8 @@ I'm a passionate developer experienced in multiple programming languages and tec
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Miguel-ASL&label=Miguel&color=3&icon=3&pretty=true" />
+</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=miguelASL&icon=0&color=0)](https://visitcount.itsvg.in)
