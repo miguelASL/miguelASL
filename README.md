@@ -23,7 +23,7 @@ I'm a passionate developer experienced in multiple programming languages and tec
 - [Variados Juegos](https://github.com/miguelASL/juegos): Colección de varios juegos implementados en Java y Python.
 
 ## 📊 Data Analysis Projects:
-- [Customer Segmentation](https://github.com/miguelASL/customer-segmentation): Un proyecto de segmentación de clientes utilizando técnicas de clustering en Python.
+- [Final Champions 2024](https://github.com/miguelASL/final_champions_2024): Análisis de uno de los eventos deportivos más emocionantes del año, 'la final de la UEFA Champions League'.
 
 ## 🤝 Contributing:
 ¡Me encantaría que contribuyeras a mis proyectos! Si deseas contribuir, sigue estos pasos:
