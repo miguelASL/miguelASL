@@ -25,6 +25,7 @@ I'm a passionate developer experienced in multiple programming languages and tec
 ## 📊 Data Analysis Projects:
 - [Final Champions 2024](https://github.com/miguelASL/final_champions_2024): Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
 - [Analisis_previo_final_champions](https://github.com/miguelASL/analisis-previo-final-champions): Analisis previo de la final de champions 2024 entre el Borussia Dormund y el Real Madrid.
+- [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana): Análisis de la eurocopa 2024 realizada por la selección española de futbol.
 ## 🤝 Contributing:
 ¡Me encantaría que contribuyeras a mis proyectos! Si deseas contribuir, sigue estos pasos:
 1. Haz un fork del proyecto
