@@ -35,16 +35,16 @@ I'm a passionate developer experienced in multiple programming languages and tec
 
 ## 🔥 Featured Projects
 
-- ### 🟢 [Pokedex without Lombok](https://github.com/miguelASL/pokedex-without-lombok)
+- ### 🟢 [Pokedex without Lombok](https://github.com/miguelASL/Ejemplo-Pokedex)
   - Una Pokedex implementada en Java sin utilizar Lombok.
 
-- ### 🟠 [Pokedex with Lombok](https://github.com/miguelASL/pokedex-with-lombok)
+- ### 🟠 [Pokedex with Lombok](https://github.com/miguelASL/Ejemplo-Pokedex-lombok)
   - Una Pokedex implementada en Java utilizando Lombok para la gestión de datos.
 
-- ### 🏋️‍♂️ [Fitness API](https://github.com/miguelASL/fitness-api)
+- ### 🏋️‍♂️ [Fitness API](https://github.com/miguelASL/ayuda_fitnes)
   - Una API de fitness diseñada para gestionar datos relacionados con el ejercicio y la salud.
 
-- ### 🎮 [Variados Juegos](https://github.com/miguelASL/variados-juegos)
+- ### 🎮 [Variados Juegos](https://github.com/miguelASL/juegos)
   - Colección de varios juegos implementados en Java y Python.
 
 ## 📊 Data Analysis Projects
