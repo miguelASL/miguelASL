@@ -1,4 +1,4 @@
-## 💻 ¡¡¡ Hello, I'm Miguel Sarmiento !!! 👋
+# 💻 ¡¡¡ Hello, I'm Miguel Sarmiento !!! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="50" alt="Saludo">
@@ -6,11 +6,9 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="50" alt="Developer">
 </div>
 
-**¡¡¡** **Welcome to my GitHub** **!!!** 👨‍🎓
+## **¡¡¡** **Welcome to my GitHub** **!!!** 👨‍🎓
 
 I'm a passionate developer experienced in multiple programming languages and technologies. I'm committed to creating innovative solutions and collaborating on open-source projects. Always eager to learn and share knowledge!
-
-
 
 ## 🌐 Socials:
 - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msarmientolevy@gmail.com)
@@ -49,7 +47,6 @@ I'm a passionate developer experienced in multiple programming languages and tec
 - ### 🎮 [Variados Juegos](https://github.com/tuusuario/variados-juegos)
   - Colección de varios juegos implementados en Java y Python.
 
-
 ## 📊 Data Analysis Projects
 
 - ### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024)
@@ -60,7 +57,6 @@ I'm a passionate developer experienced in multiple programming languages and tec
 
 - ### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana)
   - Análisis de la Eurocopa 2024 realizada por la selección española de fútbol.
-
   
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, sigue los siguientes pasos:
@@ -103,4 +99,3 @@ Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/m
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </div>
-
