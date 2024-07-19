@@ -26,21 +26,29 @@ I'm a passionate developer experienced in multiple programming languages and tec
 - [Final Champions 2024](https://github.com/miguelASL/final_champions_2024): Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
 - [Analisis_previo_final_champions](https://github.com/miguelASL/analisis-previo-final-champions): Analisis previo de la final de champions 2024 entre el Borussia Dormund y el Real Madrid.
 - [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana): Análisis de la eurocopa 2024 realizada por la selección española de futbol.
-## 🤝 Contributing:
-¡Me encantaría que contribuyeras a mis proyectos! Si deseas contribuir, sigue estos pasos:
-1. Haz un fork del proyecto
-2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Realiza tus cambios
-4. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-5. Haz push a la rama (`git push origin feature/AmazingFeature`)
-6. Abre una solicitud de extracción
+## Contribuciones
+¡Las contribuciones son bienvenidas! Por favor, sigue los siguientes pasos:
+
+- Haz un fork del proyecto y crea una nueva rama.
+```
+git checkout -b feature/nueva-funcionalidad
+```
+- Realiza tus cambios y haz commit.
+```
+git commit -am 'Agrega nueva funcionalidad'
+```
+- Sube los cambios.
+```
+git push origin feature/nueva-funcionalidad
+```
+- Abre un Pull Request.
 
 ## 📝 License:
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
 
 ## 📧 Contacto:
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-- Email: msarmientolevy@gmail.com
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
+- **Email** -> msarmientolevy@gmail.com
+- **LinkedIn** -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
 
 ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
