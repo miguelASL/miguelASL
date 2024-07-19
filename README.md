@@ -4,7 +4,14 @@
 I'm a passionate developer experienced in multiple programming languages and technologies. I'm committed to creating innovative solutions and collaborating on open-source projects. Always eager to learn and share knowledge!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
+- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msarmientolevy@gmail.com)
+
+- **linkedin**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
+
+- **Enlace del Proyecto**: [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/miguelASL)
+
+- **Spotify**: [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce)
+
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -45,10 +52,5 @@ git push origin feature/nueva-funcionalidad
 
 ## 📝 License:
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
-
-## 📧 Contacto:
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-- **Email** -> msarmientolevy@gmail.com
-- **LinkedIn** -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-sarmiento-)
 
 ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
