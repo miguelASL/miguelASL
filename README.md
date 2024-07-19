@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="50" alt="Developer">
 </div>
 
-¡¡¡ Welcome to my GitHub !!! 👨‍🎓
+**¡¡¡** **Welcome to my GitHub** **!!!** 👨‍🎓
 
 I'm a passionate developer experienced in multiple programming languages and technologies. I'm committed to creating innovative solutions and collaborating on open-source projects. Always eager to learn and share knowledge!
 
@@ -85,7 +85,7 @@ Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/m
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
+## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
 
 ---
 
