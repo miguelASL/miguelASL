@@ -57,6 +57,9 @@ I'm a passionate developer experienced in multiple programming languages and tec
 
 - ### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana)
   - Análisis de la Eurocopa 2024 realizada por la selección española de fútbol.
+
+- ### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify)
+  - Análisis del artista que quieras en spotify
   
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, sigue los siguientes pasos:
