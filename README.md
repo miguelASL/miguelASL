@@ -9,7 +9,6 @@
 ---
 
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
-
 Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con diferentes lenguajes y herramientas para crear soluciones innovadoras. Me encanta aprender, colaborar en proyectos open-source y compartir conocimiento con la comunidad.
 
 ---
@@ -41,29 +40,18 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelASL&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
 </div>
 
-### 🔄 **Dynamic Contributions**
+---
+
+## 🎴 **Frase del Día** 🍙
 
 <div align="center">
-  <!-- Highlighted Project Repositories -->
-  <a href="https://github.com/miguelASL/final_champions_2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelASL&repo=final_champions_2024&theme=blue-green" height="150" alt="Final Champions 2024 Repo" />
-  </a>
-  <a href="https://github.com/miguelASL/analisis-previo-final-champions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelASL&repo=analisis-previo-final-champions&theme=blue-green" height="150" alt="Analysis Champions 2024 Repo" />
-  </a>
-  <a href="https://github.com/miguelASL/Eurocopa_Espana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelASL&repo=Eurocopa_Espana&theme=blue-green" height="150" alt="Eurocopa España Repo" />
-  </a>
-  <a href="https://github.com/miguelASL/analisis_sportify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelASL&repo=analisis_sportify&theme=blue-green" height="150" alt="Spotify Analysis Repo" />
-  </a>
-  <a href="https://github.com/miguelASL/Proyecto_integrador_bootcamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelASL&repo=Proyecto_integrador_bootcamp&theme=blue-green" height="150" alt="Integrative Project Repo" />
-  </a>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="120" alt="Inspiring Anime Gif">
+  <p><i>"Power comes in response to a need, not a desire. You have to create that need." – Goku, Dragon Ball Z</i></p>
 </div>
 
+---
 
-## 🔥 **Featured Projects** 🚀
+# 🔥Featured Projects: 🚀
 
 ### 🟢 [**Pokedex without Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex)
 - 📝 **Descripción**: Implementación de una Pokédex en **Java** sin utilizar la librería Lombok.
@@ -95,54 +83,68 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
   - Incluye juegos como Tic-Tac-Toe, Snake, y Ahorcado.
   - Código modular y fácil de extender.
 - 🛠️ **Tecnologías**: Java, Python, PyGame.
+---
 
-## 📊 Data Analysis Projects
+# 📊 Data Analysis Projects: 📊
 
-- ### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024)
+### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024)
   - 🏟️ Descripción: Análisis del evento deportivo más emocionante del año, la final de la UEFA Champions League 2024.
   - 🔍 Enfoque: Estrategias de los equipos, predicciones, y métricas clave.
   - 📈 Herramientas utilizadas: Python, Pandas, Matplotlib, y Seaborn.
 --- 
 
-- ### 🏆 [Análisis Previo Final Champions](https://github.com/miguelASL/analisis-previo-final-champions)
+### 🏆 [Análisis Previo Final Champions](https://github.com/miguelASL/analisis-previo-final-champions)
   - 🟡⚪ Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
   - 💡 Insights: Estilos de juego, historial de enfrentamientos y predicciones.
   - 📊 Visualizaciones: Diagramas tácticos y gráficos interactivos.
 ---
 
-- ### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana)
+### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana)
   - 📅 Descripción: Análisis del rendimiento de la selección española en la Eurocopa 2024.
   - ⚽ Datos clave: Posesión, goles esperados, rendimiento defensivo y ofensivo.
   - 🔥 Extras: Modelos predictivos para el rendimiento en las eliminatorias.
 ---
 
-- ### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify)
+### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify)
   - 🎧 Descripción: Análisis personalizado del artista que desees en Spotify.
   - 🎼 Datos: Canciones más populares, géneros predominantes, y evolución musical.
   - 🛠️ Tecnologías: Spotify API, Python, Dash para visualizaciones interactivas.
 ---
-- ### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp)
+
+### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp)
   - 📖 Descripción: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
   - 👩‍💻 Análisis: Encuestas, datos estadísticos, y patrones conductuales.
   - 📊 Herramientas: Python, Matplotlib, y análisis descriptivo.
+---
 
-## Contribuciones
-¡Las contribuciones son bienvenidas! Por favor, sigue los siguientes pasos:
+## 🤝 **Contribuciones**
+¡Las contribuciones son siempre bienvenidas! 🛠️ Si tienes una idea o mejoras, sigue estos pasos para colaborar en el proyecto:
 
-- Haz un fork del proyecto y crea una nueva rama.
-```
-git checkout -b feature/nueva-funcionalidad
-```
-- Realiza tus cambios y haz commit.
-```
-git commit -am 'Agrega nueva funcionalidad'
-```
-- Sube los cambios.
-```
-git push origin feature/nueva-funcionalidad
-```
-- Abre un Pull Request.
+### 📂 **Pasos para Contribuir**
+1. **Haz un Fork** del proyecto:
+   - Haz clic en el botón `Fork` en la esquina superior derecha del repositorio.
 
+2. **Crea una nueva rama** para tu funcionalidad o mejora:
+   ```bash
+   git checkout -b feature/nueva-funcionalidad
+**3.** **Realiza tus cambios:**
+  ```bash
+  git commit -m "Agrega nueva funcionalidad: descripción breve"
+  ```
+**4.** **Sube tus cambios al repositorio remoto:**
+  ```bash
+  git push origin feature/nueva-funcionalidad
+  ```
+**5.** **Abre un Pull Request:**
+- Dirígete al repositorio original en GitHub.
+- Haz clic en Pull Request y selecciona tu rama.
+- Asegúrate de describir los cambios realizados y por qué son útiles.
+---
+
+## 💡 Consejos Útiles
+- 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
+- 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
+- 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
 ## 📝 License
 
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
@@ -150,8 +152,6 @@ Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/m
 ---
 
 ## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
-
----
 
 <div align="center">
   <a href="https://github.com/miguelASL">
@@ -167,3 +167,5 @@ Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/m
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </div>
+
+---
