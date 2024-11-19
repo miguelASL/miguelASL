@@ -122,7 +122,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 ### 📂 **Pasos para Contribuir**
 1. **Haz un Fork** del proyecto:
-   - Haz clic en el botón `Fork` en la esquina superior derecha del repositorio.
+   - Haz clic en el botón **`Fork`** en la esquina superior derecha del repositorio.
 
 2. **Crea una nueva rama** para tu funcionalidad o mejora:
    ```bash
@@ -137,7 +137,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
   ```
 **5.** **Abre un Pull Request:**
 - Dirígete al repositorio original en GitHub.
-- Haz clic en Pull Request y selecciona tu rama.
+- Haz clic en **Pull Request** y selecciona tu rama.
 - Asegúrate de describir los cambios realizados y por qué son útiles.
 ---
 
