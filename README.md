@@ -149,7 +149,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 ## 📝 License
 
-Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
+Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
 
 ---
 
