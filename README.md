@@ -10,8 +10,6 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="50" alt="Hello">
 </div>
 
----
-
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
 👋 Soy un desarrollador apasionado por la **tecnología** y los **datos**. Trabajo con:
 - **Lenguajes**: Python, Java, SQL.
@@ -149,15 +147,15 @@
 2. **Crea una nueva rama** para tu funcionalidad o mejora:
    ```bash
    git checkout -b feature/nueva-funcionalidad
-**3.** **Realiza tus cambios:**
-  ```bash
-  git commit -m "Agrega nueva funcionalidad: descripción breve"
-  ```
-**4.** **Sube tus cambios al repositorio remoto:**
-  ```bash
-  git push origin feature/nueva-funcionalidad
-  ```
-**5.** **Abre un Pull Request:**
+3. **Realiza tus cambios:**
+    ```bash
+    git commit -m "Agrega nueva funcionalidad: descripción breve"
+    ```
+4. **Sube tus cambios al repositorio remoto:**
+    ```bash
+    git push origin feature/nueva-funcionalidad
+    ```
+5. **Abre un Pull Request:**
 - Dirígete al repositorio original en GitHub.
 - Haz clic en **Pull Request** y selecciona tu rama.
 - Asegúrate de describir los cambios realizados y por qué son útiles.
@@ -165,9 +163,9 @@
 ---
 
 ## 💡 Consejos Útiles
-- 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
-- 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
-- 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
+  - 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
+  - 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
+  - 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
 
 ---
 
@@ -175,16 +173,16 @@
 
 Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
 
+
 ## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
 
----
 
 ## 🚀 **¡Atención, desarrolladores!** 🚀  
 
-Cada vez que das ⭐ a uno de mis repositorios, un bug desaparece mágicamente del código. 🐛✨  
+- Cada vez que das ⭐ a uno de mis repositorios, un bug desaparece mágicamente del código. 🐛✨  
 
-**¿No me crees?** Prueba tú mismo y observa cómo el universo de la programación mejora! 🌌💻  
+- **¿No me crees?** Prueba tú mismo y observa cómo el universo de la programación mejora! 🌌💻  
 
-**¡Haz clic en esa estrella y únete a la misión de salvar el código!** 🌟😎  
+- **¡Haz clic en esa estrella y únete a la misión de salvar el código!** 🌟😎  
 
 ---
