@@ -162,7 +162,7 @@ Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/m
   <a href="mailto:tuemail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/miguel-sarmiento-">
+  <a href="https://www.linkedin.com/in/miguel-sarmiento-levy/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
