@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 ---
 
-## 🌐 **Conéctate Conmigo**
+## 🌐 **Conéctate Conmigo** 🌐
 
 <div align="center">
   <a href="https://github.com/miguelASL">
@@ -46,14 +46,14 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="120" alt="Inspiring Anime Gif">
-  <p><i>"Power comes in response to a need, not a desire. You have to create that need." – Goku, Dragon Ball Z</i></p>
+  <p><i>"It is not wise to judge others based on your own preconceptions... unless you’re my little brother, then it’s just fun." – Itachi Uchiha, Naruto</i></p>
 </div>
 
 ---
 
 # 🔥Featured Projects: 🚀
 
-### 🟢 [**Pokedex without Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex)
+### 🟢 [**Pokedex without Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex) 🟢
 - 📝 **Descripción**: Implementación de una Pokédex en **Java** sin utilizar la librería Lombok.
 - 🔍 **Características**:
   - Gestión manual de constructores y métodos.
@@ -61,7 +61,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - 🛠️ **Tecnologías**: Java, IDE IntelliJ.
 ---
 
-### 🟠 [**Pokedex with Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex-lombok)
+### 🟠 [**Pokedex with Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex-lombok) 🟠
 - 📝 **Descripción**: Implementación de una Pokédex en **Java** utilizando la librería Lombok para simplificar el código.
 - 🔍 **Características**:
   - Uso de anotaciones como `@Getter`, `@Setter`, y `@ToString`.
@@ -69,7 +69,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - 🛠️ **Tecnologías**: Java, Lombok, IDE IntelliJ.
 ---
 
-### 🏋️‍♂️ [**Fitness API**](https://github.com/miguelASL/ayuda_fitnes)
+### 🏋️‍♂️ [**Fitness API**](https://github.com/miguelASL/ayuda_fitnes) 🏋️‍♂️
 - 📝 **Descripción**: Una API para gestionar datos relacionados con el fitness y la salud.
 - 🔍 **Características**:
   - Gestión de usuarios, rutinas y progresos.
@@ -77,7 +77,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - 🛠️ **Tecnologías**: Python, Flask, SQLAlchemy, Docker.
 ---
 
-### 🎮 [**Variados Juegos**](https://github.com/miguelASL/juegos)
+### 🎮 [**Variados Juegos**](https://github.com/miguelASL/juegos) 🎮
 - 📝 **Descripción**: Colección de juegos desarrollados en **Java** y **Python**.
 - 🔍 **Características**:
   - Incluye juegos como Tic-Tac-Toe, Snake, y Ahorcado.
@@ -87,34 +87,34 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 # 📊 Data Analysis Projects: 📊
 
-### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024)
-  - 🏟️ Descripción: Análisis del evento deportivo más emocionante del año, la final de la UEFA Champions League 2024.
-  - 🔍 Enfoque: Estrategias de los equipos, predicciones, y métricas clave.
-  - 📈 Herramientas utilizadas: Python, Pandas, Matplotlib, y Seaborn.
+### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024) ⚽
+  - 🏟️ **Descripción**: Análisis del evento deportivo más emocionante del año, la final de la UEFA Champions League 2024.
+  - 🔍 **Enfoque**: Estrategias de los equipos, predicciones, y métricas clave.
+  - 📈 **Tecnologías**: Python, Pandas, Matplotlib, y Seaborn.
 --- 
 
-### 🏆 [Análisis Previo Final Champions](https://github.com/miguelASL/analisis-previo-final-champions)
-  - 🟡⚪ Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
-  - 💡 Insights: Estilos de juego, historial de enfrentamientos y predicciones.
-  - 📊 Visualizaciones: Diagramas tácticos y gráficos interactivos.
+### 🏆 [Análisis Previo Final Champions](https://github.com/miguelASL/analisis-previo-final-champions) 🏆
+  - 🟡⚪ **Descripción**: Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
+  - 💡 **Insights**: Estilos de juego, historial de enfrentamientos y predicciones.
+  - 📊 **Visualizaciones**: Diagramas tácticos y gráficos interactivos.
 ---
 
-### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana)
-  - 📅 Descripción: Análisis del rendimiento de la selección española en la Eurocopa 2024.
-  - ⚽ Datos clave: Posesión, goles esperados, rendimiento defensivo y ofensivo.
-  - 🔥 Extras: Modelos predictivos para el rendimiento en las eliminatorias.
+### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana) 🇪🇸
+  - 📅 **Descripción**: Análisis del rendimiento de la selección española en la Eurocopa 2024.
+  - ⚽ **Datos clave**: Posesión, goles esperados, rendimiento defensivo y ofensivo.
+  - 🔥 **Extras**: Modelos predictivos para el rendimiento en las eliminatorias.
 ---
 
-### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify)
-  - 🎧 Descripción: Análisis personalizado del artista que desees en Spotify.
-  - 🎼 Datos: Canciones más populares, géneros predominantes, y evolución musical.
-  - 🛠️ Tecnologías: Spotify API, Python, Dash para visualizaciones interactivas.
+### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify) 🎵
+  - 🎧 **Descripción**: Análisis personalizado del artista que desees en Spotify.
+  - 🎼 **Datos**: Canciones más populares, géneros predominantes, y evolución musical.
+  - 🛠️ **Tecnologías**: Spotify API, Python, Dash para visualizaciones interactivas.
 ---
 
-### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp)
-  - 📖 Descripción: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
-  - 👩‍💻 Análisis: Encuestas, datos estadísticos, y patrones conductuales.
-  - 📊 Herramientas: Python, Matplotlib, y análisis descriptivo.
+### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp) 📚
+  - 📖 **Descripción**: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
+  - 👩‍💻 **Análisis**: Encuestas, datos estadísticos, y patrones conductuales.
+  - 📊 **Tecnologías**: Python, Matplotlib, y análisis descriptivo.
 ---
 
 ## 🤝 **Contribuciones**
@@ -145,6 +145,8 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
 - 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
 - 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
+---
+
 ## 📝 License
 
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
