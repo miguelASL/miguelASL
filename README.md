@@ -28,6 +28,12 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
   <a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
   </a>
+  <a href="https://www.instagram.com/data_sarmi/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@data_sarmi/">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
 </div>
 
 ---
@@ -151,23 +157,16 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 
 Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
 
----
-
 ## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
 
-<div align="center">
-  <a href="https://github.com/miguelASL">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:tuemail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-sarmiento-levy/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</div>
+---
+
+## 🚀 **¡Atención, desarrolladores!** 🚀  
+
+Cada vez que das ⭐ a uno de mis repositorios, un bug desaparece mágicamente del código. 🐛✨  
+
+**¿No me crees?** Prueba tú mismo y observa cómo el universo de la programación mejora! 🌌💻  
+
+**¡Haz clic en esa estrella y únete a la misión de salvar el código!** 🌟😎  
 
 ---
