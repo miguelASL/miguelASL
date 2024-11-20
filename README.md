@@ -1,15 +1,26 @@
-# 💻 ¡Hola! Soy **Miguel Sarmiento** 👋
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy <b>Miguel Sarmiento</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💻+Desarrollador+Backend;📊+Análista+de+Datos;🚀+Siempre+Aprendiendo!;💻+Desarrollador+Backend;📊+Análista+de+Datos;🚀+Siempre+Aprendiendo!">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="50" alt="Hello">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="50" alt="Welcome">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="50" alt="Developer">
 </div>
 
 ---
 
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
-Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con diferentes lenguajes y herramientas para crear soluciones innovadoras. Me encanta aprender, colaborar en proyectos open-source y compartir conocimiento con la comunidad.
+👋 Soy un desarrollador apasionado por la **tecnología** y los **datos**. Trabajo con:
+- **Lenguajes**: Python, Java, SQL.
+- **Herramientas**: Docker, Prometheus, FastAPI, Power BI, Excel.
+
+✨ **Me encanta**:
+- Crear soluciones innovadoras y eficientes.
+- Participar en proyectos **open-source**.
+- Compartir conocimiento con la comunidad.
 
 ---
 
@@ -41,9 +52,14 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelASL&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelASL&theme=blue-green&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelASL&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+  <!-- Tarjeta de estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelASL&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+
+  <!-- Tarjeta de racha -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelASL&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+
+  <!-- Tarjeta de lenguajes principales -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelASL&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -91,7 +107,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - 🛠️ **Tecnologías**: Java, Python, PyGame.
 ---
 
-# 📊 Data Analysis Projects: 📊
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Data Analysis Projects: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 ### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024) ⚽
   - 🏟️ **Descripción**: Análisis del evento deportivo más emocionante del año, la final de la UEFA Champions League 2024.
@@ -121,6 +137,7 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
   - 📖 **Descripción**: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
   - 👩‍💻 **Análisis**: Encuestas, datos estadísticos, y patrones conductuales.
   - 📊 **Tecnologías**: Python, Matplotlib, y análisis descriptivo.
+
 ---
 
 ## 🤝 **Contribuciones**
@@ -129,7 +146,6 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 ### 📂 **Pasos para Contribuir**
 1. **Haz un Fork** del proyecto:
    - Haz clic en el botón **`Fork`** en la esquina superior derecha del repositorio.
-
 2. **Crea una nueva rama** para tu funcionalidad o mejora:
    ```bash
    git checkout -b feature/nueva-funcionalidad
@@ -145,12 +161,14 @@ Soy un desarrollador apasionado por la tecnología y los datos. Trabajo con dife
 - Dirígete al repositorio original en GitHub.
 - Haz clic en **Pull Request** y selecciona tu rama.
 - Asegúrate de describir los cambios realizados y por qué son útiles.
+
 ---
 
 ## 💡 Consejos Útiles
 - 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
 - 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
 - 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
+
 ---
 
 ## 📝 License
