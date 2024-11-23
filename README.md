@@ -174,13 +174,11 @@
 ## 📝 License
 
 Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
+
+## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Contribuye" width="200" />
 </div>
-
-
-## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
-
 
 ## 🚀 **¡Atención, desarrolladores!** 🚀  
 
