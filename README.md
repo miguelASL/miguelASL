@@ -51,26 +51,24 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  <!-- Tarjeta de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelASL&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-
-  <!-- Tarjeta de racha -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelASL&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-
-  <!-- Tarjeta de lenguajes principales -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelASL&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/miguelASL">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelASL&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 48%; height: auto; max-height: 200px;" />
+  </a>
+  <a href="https://github.com/miguelASL">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelASL&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
+  </a>
 </div>
 
 ---
 
-## 🎴 **Frase del Día** 🍙
+## 🔥 **Mis Habilidades**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="120" alt="Inspiring Anime Gif">
-  <p><i>"It is not wise to judge others based on your own preconceptions... unless you’re my little brother, then it’s just fun." – Itachi Uchiha, Naruto</i></p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,docker,git,linux,postman,vscode" alt="Skills" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48" style="margin-left: 10px;" />
 </div>
 
 ---
@@ -176,6 +174,9 @@
 ## 📝 License
 
 Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Contribuye" width="200" />
+</div>
 
 
 ## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
@@ -190,3 +191,10 @@ Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licens
 - **¡Haz clic en esa estrella y únete a la misión de salvar el código!** 🌟😎  
 
 ---
+
+<div align="center">
+  <h3>👀 ¡Gracias por visitar mi perfil!</h3>
+  <a href="https://github.com/miguelASL">
+    <img src="https://komarev.com/ghpvc/?username=miguelASL&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
