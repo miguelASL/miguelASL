@@ -55,9 +55,6 @@
 
 <div align="center">
   <a href="https://github.com/miguelASL">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelASL&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 48%; height: auto; max-height: 200px;" />
-  </a>
-  <a href="https://github.com/miguelASL">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelASL&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
   </a>
 </div>
