@@ -130,6 +130,12 @@
   - 🛠️ **Tecnologías**: Spotify API, Python, Dash para visualizaciones interactivas.
 ---
 
+### ⚖️ [Análisis de Datos de Netflix](https://github.com/miguelASL/Analisis_netflix) 🎥
+  - 📅 **Descripción**: Exploración y análisis de patrones de consumo en Netflix.
+  - 📊 **Datos**: Historial de visualización, géneros favoritos, y series más vistas.
+  - 🔁 **Tecnologías**: Python, Pandas, Matplotlib, Seaborn, y K-Means para clustering.
+---
+
 ### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp) 📚
   - 📖 **Descripción**: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
   - 👩‍💻 **Análisis**: Encuestas, datos estadísticos, y patrones conductuales.
