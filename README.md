@@ -176,7 +176,7 @@
 
 ## 📝 License
 
-Este proyecto está bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
+Estos proyectos están bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
 
 ## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
 <div align="center">
