@@ -140,6 +140,7 @@
   - 📖 **Descripción**: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
   - 👩‍💻 **Análisis**: Encuestas, datos estadísticos, y patrones conductuales.
   - 📊 **Tecnologías**: Python, Matplotlib, y análisis descriptivo.
+---
 
 ### 🔵 [Análisis de la temporada del FC Barcelona](https://github.com/miguelASL/Barcelona-FC) 🟠
   - 📖 **Descripción**: Análisis completo del rendimiento del FC Barcelona durante la temporada 2024/2025.
