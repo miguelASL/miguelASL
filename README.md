@@ -146,6 +146,13 @@
   - 📖 **Descripción**: Análisis completo del rendimiento del FC Barcelona durante la temporada 2024/2025.
   - ⚽ **Análisis**: Resultados por jornada, estadísticas colectivas e individuales, rendimiento ofensivo y defensivo, y visualizaciones dinámicas.
   - 📊 **Tecnologías**: Python, Pandas, Matplotlib, Seaborn y Power BI.º
+---
+
+### ⚽ [Sistema de Predicciones de Fútbol](https://github.com/miguelASL/futbol_prediccion) ⚽
+  - 📝 **Descripción**: Sistema avanzado de machine learning para predicciones deportivas con capacidades de trading automático y análisis de value bets.
+  - 🤖 **ML**: Ensemble Learning (XGBoost + LightGBM + RandomForest) con 68%+ de accuracy.
+  - 📊 **Features**: Dashboard interactivo, análisis de odds reales, sistema de alertas y reportes automáticos.
+  - 🛠️ **Tecnologías**: Python, Scikit-learn, XGBoost, LightGBM, Plotly, HTML/CSS, API integrations.
 
 ---
 
